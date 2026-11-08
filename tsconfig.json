@@ -18,8 +18,6 @@
                 "name": "next"
             }
         ],
-        "baseUrl": "./", // Tetap dibiarkan sementara
-        "ignoreDeprecations": "6.0",
         "paths": {
             "@/*": ["./*"]
         }
